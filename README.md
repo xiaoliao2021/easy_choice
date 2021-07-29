@@ -1,2 +1,2 @@
-# easy_choice
-Make the choice no longer difficult
+# 易选
+制作本项目的初心是希望能做一个帮助选择困难症的人(比如我)快速做出选择
